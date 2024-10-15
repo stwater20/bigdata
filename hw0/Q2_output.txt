@@ -1,0 +1,5 @@
+Task 2: Mean and Std Dev of 4 columns
+Global_active_power: Mean: 1.0916150366540094, Std Dev: 1.0572941611180038
+Global_reactive_power: Mean: 0.1237144765251571, Std Dev: 0.11272197958641127
+Voltage: Mean: 240.83985796672414, Std Dev: 3.2399866612063284
+Global_intensity: Mean: 4.627759313004169, Std Dev: 4.444396258981282

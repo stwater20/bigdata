@@ -1,0 +1,5 @@
+Task 1: Min, Max, Count of 4 columns
+Global_active_power: Min: 0.07599999755620956, Max: 11.121999740600586, Count: 2049280
+Global_reactive_power: Min: 0.0, Max: 1.3899999856948853, Count: 2049280
+Voltage: Min: 223.1999969482422, Max: 254.14999389648438, Count: 2049280
+Global_intensity: Min: 0.20000000298023224, Max: 48.400001525878906, Count: 2049280
